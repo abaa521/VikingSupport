@@ -3,6 +3,7 @@
 ## YouTube影片和下載點
 - [YouTube視頻](https://youtu.be/Dh-aMUkpONU?si=3QylfRok9OQubj0Q)
 - 下載點: [Viking.zip](https://chtineer.com/GameSupport/Viking.zip) (可自行安裝或通過Line ID ssky0212請求安裝幫助)
+![這是一張示例圖片]([https://example.com/image.jpg](https://chtineer.com/png/VikingSupport.png))
 
 ## 「一般」模式注意事項
 ### (一) 採集
