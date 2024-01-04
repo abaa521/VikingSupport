@@ -3,6 +3,7 @@
 ## YouTube影片和下載點
 - [YouTube視頻](https://youtu.be/Dh-aMUkpONU?si=3QylfRok9OQubj0Q)
 - 下載點: [Viking.zip](https://chtineer.com/GameSupport/Viking.zip) (可自行安裝或通過Line ID ssky0212請求安裝幫助)
+- 為什麼會報毒，因為它需要偵測以及控制模擬器
 
 ![這是一張示例圖片](https://chtineer.com/png/VikingSupport.png)
 
