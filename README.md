@@ -2,7 +2,7 @@
 
 ## YouTube影片和下載點
 - [YouTube影片](https://youtu.be/Dh-aMUkpONU?si=3QylfRok9OQubj0Q)
-- 下載點: [Viking.zip](https://chtineer.com/GameSupport/Viking.zip) (可自行安裝或通過Line: ssky0212請求安裝幫助)
+- 下載點: [Viking.zip](https://chtineer.com/GameSupport/Viking.zip) (建議用edge下載) (可自行安裝或通過Line: ssky0212，協助安裝) 
 
 ![這是一張示例圖片](https://chtineer.com/GameSupport/VikingSupport.png)
 
