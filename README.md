@@ -4,7 +4,7 @@
 - [YouTube影片](https://youtu.be/Dh-aMUkpONU?si=3QylfRok9OQubj0Q)
 - 下載點: [GameSupport.zip](https://chtineer.com/VikingSupport/GameSupport.zip) (用edge下載不會被封鎖) (可自行安裝或通過Line: ssky0212，協助安裝) 
 
-![這是一張示例圖片](https://chtineer.com/GameSupport/VikingSupport.png)
+![這是一張示例圖片](https://chtineer.com/Images/VikingSupport.png)
 
 ## 「一般」模式注意事項
 ### (一) 採集
