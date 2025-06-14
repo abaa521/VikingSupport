@@ -1,4 +1,4 @@
-# 維京輔助
+# 維京崛起輔助
 
 ## YouTube影片和下載點
 - [YouTube影片](https://youtu.be/Dh-aMUkpONU?si=3QylfRok9OQubj0Q)
